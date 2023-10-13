@@ -38,8 +38,8 @@ Stop
 
 ## Program:
 ```
-Name : Vidya Neela M
-Reg no : 212221230120
+Name : Gunaseelan G
+Reg no : 212221230031
 ```
 ```
 using System.Collections;
@@ -66,7 +66,7 @@ public class Rotate : MonoBehaviour
 ## Output:
 ![image](https://github.com/Mothesh-M127/Rotating-the-Gaming-Object/assets/94170892/eef72d0e-e5e2-42d5-a64e-79b695492a06)
 
-![image](https://github.com/Mothesh-M127/Rotating-the-Gaming-Object/assets/94170892/1f1c1918-0f14-4fb9-b1bc-16b1244def80)
+
 
 ## Result:
 Thus, a 3D application for rotating the gaming objects in unity was executed successfully

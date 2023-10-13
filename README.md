@@ -64,7 +64,8 @@ public class Rotate : MonoBehaviour
 ```
 
 ## Output:
-![image](https://github.com/Mothesh-M127/Rotating-the-Gaming-Object/assets/94170892/eef72d0e-e5e2-42d5-a64e-79b695492a06)
+![img1](https://github.com/Guru-Guna/Rotating-the-Gaming-Object/assets/93427255/5b5b6211-addf-48f2-9778-2f3edaf59cab)
+
 
 
 
